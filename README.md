@@ -3,7 +3,7 @@ GDScript-Geany
 
 This is the *GDScript* syntax definition for the Geany text editor / IDE.
 GDScript is the scripting language for the [Godot Game Engine](http://www.godotengine.org/).
-Geany is a text editor or lightweight IDE for Linux ([more information here](http://www.geany.org/)).
+Geany is a multiplatform text editor or lightweight IDE ([more information here](http://www.geany.org/)).
 
 Installation
 ------------
